@@ -117,16 +117,14 @@
           {
             "products": {
               "__resolveType": "shopify/loaders/ProductList.ts",
-              "props": {
-                "sort": "",
-                "query": "hat and bag",
-                "count": 10
-              },
               "filters": {
                 "tags": [],
                 "productTypes": [],
                 "productVendors": [],
                 "variantOptions": []
+              },
+              "props": {
+                "sort": ""
               }
             },
             "title": "Accessories"
