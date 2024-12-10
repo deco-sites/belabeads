@@ -2,10 +2,10 @@
   "__resolveType": "site/apps/deco/shopify.ts",
   "adminAccessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "7017a4ff36208da234ed78068d1823b30dbdd9ec728c2ba6e1fb212147a1514d9207565e66826d670c254ff0645b2f57",
+    "encrypted": "c05033a713c7378915c8c00d8cd637edb349242b3dc3ed94bdd3b4ddb7975ca1d61e1d42ccf18a9310a7bdc46f1f1a76",
     "name": "SHOPIFY_ACCESS_TOKEN"
   },
   "platform": "shopify",
   "storeName": "agliardi",
-  "storefrontAccessToken": "d9fcd82bfb7ac9cd887a6e955ae5105c"
+  "storefrontAccessToken": "1ee5488d4ce2d3e65951803f6b13f000"
 }

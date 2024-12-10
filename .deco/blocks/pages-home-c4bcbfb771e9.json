@@ -124,7 +124,9 @@
                 "variantOptions": []
               },
               "props": {
-                "sort": ""
+                "sort": "",
+                "query": "a",
+                "count": 100
               }
             },
             "title": "Accessories"
@@ -163,7 +165,8 @@
             },
             "title": "Stickers"
           }
-        ]
+        ],
+        "cta": "test"
       }
     },
     {
