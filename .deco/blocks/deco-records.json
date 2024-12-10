@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://belabeads-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "84af1268d01bd4a73fd386a1d8c56bc6bb1cd786d1ce5f6d2848a71aa5f8d67b4f4baa03b1be29da9ac657fb2db8a9adad69be5fc6c8e9a0a7e5f1d216b503c972d36ee073cab287242ff0c3af2ffd22de0f7324dfad83219753fc114ba934fb4e8d74595d425359b80dc7fd02a92e87dc7aae6bf411946998db1d3160d47aaf1a2998bd3ea7b974dcf9fe75cc5ea3f85bb7e204dadb0672fc0a42b02fdf568b9f85651292013e5dbd762c511330bae35090dc330ace9c3a1252213c2bba3c1527ba212edc4e923ce007008472cde231b467767aa87c3dc139d5ac5637f26b74"
+  }
+}
